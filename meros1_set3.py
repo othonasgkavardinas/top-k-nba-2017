@@ -1,6 +1,3 @@
-#Othonas Gkavardinas
-#AM 2620
-
 #import operator
 from sys import argv
 from time import time
