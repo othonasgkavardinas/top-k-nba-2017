@@ -10,7 +10,7 @@
 10 first lines of the original data.
 
 ### Run
-$ python3 subproblem1.py [3] 2
+$ python3 subproblem1.py [3] 2  
 $ python3 subproblem2.py [2]
 
 ### Tested on
