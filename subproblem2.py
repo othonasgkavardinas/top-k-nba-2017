@@ -26,7 +26,7 @@ def main(argv):
 
     statistics = get_input(argv)
 
-    f = open("2017_ALL.csv", "r")
+    f = open("data/2017_ALL.csv", "r")
     f.readline()
 
     get_first_player(dominant_players, f)

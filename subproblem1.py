@@ -72,7 +72,7 @@ def open_files(statistics):
     files_list = []
 
     for stat in statistics:
-        files_list.append(open("2017_"+files[stat]+".csv", "r"))
+        files_list.append(open("data/2017_"+files[stat]+".csv", "r"))
     return files_list
 
 def find_top_k(files_list, k, q):
@@ -188,6 +188,7 @@ def main(argv):
     close_files(files_list)
 
 '''
+#########test case
 def dummy_main(argv):
 
     max_vals = [None, None, None, 1116, 906, 157, 214, 2558]
