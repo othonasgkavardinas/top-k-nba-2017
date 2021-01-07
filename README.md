@@ -11,7 +11,7 @@
 Data is not provided.
 
 ### Run
-$ python3 subproblem1.py [3] 15
+$ python3 subproblem1.py [3] 15  
 $ python3 subproblem2.py [2]
 
 ### Tested on
